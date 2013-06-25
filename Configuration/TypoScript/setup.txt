@@ -1,0 +1,8 @@
+plugin.tx_gtm {
+	containerId = {$plugin.tx_gtm.containerId}
+	tagTypeBlacklist = {$plugin.tx_gtm.tagTypeBlacklist}
+	dataLayer {
+	}
+}
+
+config.tx_gtm.enable = 0

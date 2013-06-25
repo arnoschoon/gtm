@@ -1,0 +1,4 @@
+plugin.tx_gtm {
+	containerId = GTM-XXXX
+	tagTypeBlacklist = html,img
+}
